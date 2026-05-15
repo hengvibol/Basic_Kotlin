@@ -72,6 +72,15 @@ fun main() {
 
     println(l) // 1
 
+
+
+//    Mixed numeric expressions
+
+    val intNumber: Int = 1
+    val longNumber: Long = 1000
+    val result = intNumber + longNumber // 1001, Long
+    println(result)
+
 //    print("Enter any word : ")
 //    val word = readln()
 //    println(word)
