@@ -1,4 +1,4 @@
-package string
+package datatype
 
 fun main() {
     val name: String = "Kotlin"

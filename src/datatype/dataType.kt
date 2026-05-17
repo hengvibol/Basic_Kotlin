@@ -52,6 +52,8 @@ fun main() {
 //    printDouble(xFloat) /: argument type mismatch/ Error
 
 
+    val isTrue: Boolean = true
+    val isFalse = false // Kotlin infers Boolean
     /*
     ****** Type conversion *****
     toByte()
