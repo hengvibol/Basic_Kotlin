@@ -13,6 +13,7 @@ fun main() {
 
     // First update
     version = "1.1"
+    print("First update"+version)
 
     // Second update
     version = "2.0"
