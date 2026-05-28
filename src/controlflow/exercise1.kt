@@ -16,6 +16,7 @@ fun convertCodeToDayExample(dayTypeCode: String): String {
     else if (dayTypeCode == "03"){
         "Wednesday"
     }else if (dayTypeCode == "04"){
+
         "Thursday"
     }else if(dayTypeCode == "05"){
         "Friday"
